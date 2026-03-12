@@ -97,4 +97,4 @@ Rust                   ██████████████████░
 
 ## 🤝 Let's Connect
 
-I'm always interested in challenging projects, technical discussions, and collaboration opportunities.
+I'm always interested in challenging projects and collaboration opportunities.
