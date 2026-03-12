@@ -79,7 +79,7 @@ Rust                   ██████████████████░
 
 **Cloud & MLOps**
 - AWS (SageMaker, Bedrock, Lambda)
-- Google Cloud
+- Google Cloud (Vertex AI)
 - Docker, Kubernetes
 - ML model versioning & monitoring
 
